@@ -5,7 +5,7 @@
 [**Yeonwoo Cha**\*](https://yeonwoo378.github.io), [**Semin Kim**\*](https://seminkim.github.io), [**Jinhyeon Kwon**](https://github.com/jinhyeonkwon), [**Seunghoon Hong**](https://maga33.github.io)<br>
 KAIST
 
-[**[Paper]**](https://arxiv.org/abs/xxxx.xxxxx) | [**[Project Page]**](https://yeonwoo378.github.io/FlowBind2026) | [**[HuggingFace]**](https://huggingface.co/yeonwoo378/flowbind)
+[**[Paper]**](https://arxiv.org/abs/2512.15420) | [**[Project Page]**](https://yeonwoo378.github.io/FlowBind2026) | [**[HuggingFace]**](https://huggingface.co/yeonwoo378/flowbind)
 
 </div>
 
@@ -111,10 +111,10 @@ This repository is built upon the following open-source projects. We thank the a
 If you find our work helpful, please cite:
 
 ```bibtex
-@article{cha2025flowbind,
+@misc{cha2025flowbind,
   title={FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows},
   author={Cha, Yeonwoo and Kim, Semin and Kwon, Jinhyeon and Hong, Seunghoon},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  Eprint={arXiv:2512.15420},
   year={2025}
 }
 ```
