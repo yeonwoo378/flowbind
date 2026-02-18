@@ -1,11 +1,11 @@
-# FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows
+# FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows (ICLR 2026)
 
 <div align="center">
 
 [**Yeonwoo Cha**\*](https://yeonwoo378.github.io), [**Semin Kim**\*](https://seminkim.github.io), [**Jinhyeon Kwon**](https://github.com/jinhyeonkwon), [**Seunghoon Hong**](https://maga33.github.io)<br>
 KAIST
 
-[**[Paper]**](https://arxiv.org/abs/2512.15420) | [**[Project Page]**](https://yeonwoo378.github.io/FlowBind2026) | [**[HuggingFace]**](https://huggingface.co/yeonwoo378/flowbind)
+[**[Paper]**](https://arxiv.org/abs/2512.15420) | [**[Project Page]**](https://yeonwoo378.github.io/official_flowbind) | [**[HuggingFace]**](https://huggingface.co/yeonwoo378/flowbind)
 
 </div>
 
